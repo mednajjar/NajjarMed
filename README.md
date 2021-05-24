@@ -1,5 +1,6 @@
 My name is Mohammed Najjar and I'm a full stack developer! 👋
 
+- 🔭 I’m currently working on my health and making my customers happy
 - 🌱 I’m currently learning ... React native
 - 👯 I’m looking to collaborate on ... React Native
 - 🤔 I’m looking for help with ... AWS
