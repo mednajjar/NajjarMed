@@ -7,4 +7,4 @@ My name is Mohammed Najjar and I'm a full stack developer! 👋
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [LinkdeIn](https://www.linkedin.com/in/mohammed-najjar-3091a71a5/)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am half Finnish
+- ⚡ Fun fact: ... I woke up once screaming! i was dreaming playing football! i kicked the wall instead the ball
